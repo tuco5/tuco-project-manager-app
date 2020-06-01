@@ -11,4 +11,4 @@ This API its going to follow all the process inside a metal buidling project. Si
 - Automated payroll punctual and for digital media.
 - Estimations, bills and paymenta automatically generated and deposited in the bank account in time.
 
-This app is supposed to generate more quality and motivation to the personal.
+This app is supposed to generate more quality to the job itself and motivation to the personal.
