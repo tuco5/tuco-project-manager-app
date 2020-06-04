@@ -29,3 +29,5 @@ There are going to be different types of users.
 - Bodeguero. 
 - Compras.
 - Cliente.
+
+### WORKFLOW
