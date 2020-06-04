@@ -14,3 +14,17 @@ This API its going to follow all the process inside a metal buidling project. Si
 This app is supposed to generate more quality to the job itself and motivation to the personal.
 
 ## FUNCTIONALITY
+
+### USERS 
+There are going to be different types of users. 
+- Habilitador.
+- Armador.
+- Soldador.
+- Limpieza.
+- Pintor.
+- Chofer.
+- Residente.
+- Calidad.
+- Ingeniero de Taller.
+- Bodeguero. 
+- Compras.
