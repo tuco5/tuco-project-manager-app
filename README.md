@@ -28,3 +28,4 @@ There are going to be different types of users.
 - Ingeniero de Taller.
 - Bodeguero. 
 - Compras.
+- Cliente.
